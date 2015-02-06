@@ -1,6 +1,6 @@
 %define	name	feff
 %define	version	1.9.1
-%define	release	1
+%define release	2
 Name:		%{name}
 Version:	%{version}
 Release:	%{release}
