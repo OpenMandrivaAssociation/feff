@@ -6,6 +6,8 @@ License:	GPLv3
 URL:		https://bitbucket.org/admsasha/feff/
 Source:		https://bitbucket.org/admsasha/feff/downloads/feff-1.10.1.tar.gz
 Group:		Video
+
+BuildRequires:  qmake5
 BuildRequires:  pkgconfig(Qt5Core)
 BuildRequires:  pkgconfig(Qt5Gui)
 BuildRequires:  pkgconfig(Qt5Widgets)
